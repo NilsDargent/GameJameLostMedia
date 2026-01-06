@@ -25,7 +25,6 @@ public class Mouvement : MonoBehaviour
 
     void Start()
     {
-
         _rb = GetComponent<Rigidbody2D>();
         _sprite = GetComponent<SpriteRenderer>();
         _animator = GetComponent<Animator>();  
@@ -36,31 +35,7 @@ public class Mouvement : MonoBehaviour
     {
         bool onGround = Physics2D.Raycast(transform.position, Vector2.down, PlayerHeight, GroundMask);
         _moveInput = Input.GetAxis("Horizontal");
-        if (_moveInput != 0)
-        {
-            if (onGround)
-            {
-                _animator.SetBool("isRunning", true);
-            }
-            else
-            {
-                _animator.SetBool("isRunning", false);
-            }
-            if (_moveInput < 0)
-            {
-                _sprite.flipX = true;
-            }
-            else if (_moveInput > 0)
-            {
-                _sprite.flipX = false;
-            }
-
-        }
-        else
-        {
-            _animator.SetBool("isRunning", false);
-        }
-
+        
         if (onGround)
         {
             _animator.SetBool("isJumping", false);
@@ -69,6 +44,24 @@ public class Mouvement : MonoBehaviour
                 _wantsToJump = true;
                 _animator.SetBool("isJumping", true);
             }
+
+            if (_moveInput != 0)
+            {
+                _animator.SetBool("isRunning", true);
+                if (_moveInput < 0)
+                {
+                    _sprite.flipX = true;
+                }
+                else if (_moveInput > 0)
+                {
+                    _sprite.flipX = false;
+                }
+            }
+            else
+            {
+                _animator.SetBool("isRunning", false);
+            }
+            
         }
     }
 
