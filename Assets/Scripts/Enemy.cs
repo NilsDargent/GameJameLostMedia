@@ -1,6 +1,4 @@
 using UnityEngine;
-using UnityEngine.SocialPlatforms.Impl;
-using static UnityEngine.RuleTile.TilingRuleOutput;
 
 public class Enemy : MonoBehaviour
 {

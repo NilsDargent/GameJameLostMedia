@@ -2,6 +2,7 @@ using System.Collections;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.SceneManagement;
+using UnityEngine.SocialPlatforms.Impl;
 
 public class PlayerController : MonoBehaviour
 {
@@ -11,14 +12,18 @@ public class PlayerController : MonoBehaviour
     private float JumpForce = 10f;
     
 
+    public Vector2 test; 
+
+
     private SpriteRenderer _sprite;
     private Rigidbody2D _rb;
     private Animator _animator;
 
     private float _moveInput;
     private bool _wantsToJump;
+    private bool _isDead = false;
 
-    private static Vector2 _respawnPoint;
+    private static Vector2 respawnPoint;
 
 
     [Header("RaycastController")]
@@ -27,9 +32,16 @@ public class PlayerController : MonoBehaviour
     [SerializeField]
     private LayerMask GroundMask;
 
+    public Vector2 respawn
+    {
+        get { return respawnPoint; }
+        set { respawnPoint = value; }
+    }
+
     void Start()
     {
-        transform.position = _respawnPoint;
+        transform.position = respawnPoint;
+        test = respawnPoint;
         _rb = GetComponent<Rigidbody2D>();
         _sprite = GetComponent<SpriteRenderer>();
         _animator = GetComponent<Animator>();        
@@ -88,9 +100,9 @@ public class PlayerController : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Enemy"))
         {
-            if (collision.otherCollider.GetType() == typeof(CapsuleCollider2D))
+            if (collision.otherCollider.GetType() == typeof(CapsuleCollider2D) && !_isDead)
             {
-                print("Enemy ma tué");
+                _isDead = true;
                 _animator.SetBool("isDead", true);
                 StartCoroutine(DeathCoroutine());
             }
@@ -105,11 +117,13 @@ public class PlayerController : MonoBehaviour
             if (!collision.gameObject.GetComponent<RespawnPoint>().isActif)
             {
                 print("Respawn touché");
-                _respawnPoint = transform.position;
+                respawnPoint = transform.position;
+                test = respawnPoint;
             }
         }
-        if (collision.gameObject.CompareTag("DeathZone"))
+        if (collision.gameObject.CompareTag("DeathZone")&& !_isDead)
         {
+            _isDead = true;
             print("DeathZone touché");
             StartCoroutine(DeathCoroutine());
         }
@@ -117,7 +131,8 @@ public class PlayerController : MonoBehaviour
 
     IEnumerator DeathCoroutine()
     {
-        yield return new WaitForSeconds(1);
-        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        
+            yield return new WaitForSeconds(1);
+            GameManager.Instance?.Death();
     }
 }

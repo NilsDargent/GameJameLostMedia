@@ -1,0 +1,1076 @@
+fileFormatVersion: 2
+guid: b2e0b8e3b910b1349a16ad24b94db1dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3196787119992965028
+    second: GameOver-Sheet_0
+  - first:
+      213: 4709984431231242638
+    second: GameOver-Sheet_1
+  - first:
+      213: 3091137890262978885
+    second: GameOver-Sheet_2
+  - first:
+      213: -8205889159207808781
+    second: GameOver-Sheet_3
+  - first:
+      213: -7406852866619920583
+    second: GameOver-Sheet_4
+  - first:
+      213: 908731209956098617
+    second: GameOver-Sheet_5
+  - first:
+      213: 5894737621804227333
+    second: GameOver-Sheet_6
+  - first:
+      213: -4558200796580580496
+    second: GameOver-Sheet_7
+  - first:
+      213: -9058402007436501195
+    second: GameOver-Sheet_8
+  - first:
+      213: -7611386315778696781
+    second: GameOver-Sheet_9
+  - first:
+      213: 246718787242255576
+    second: GameOver-Sheet_10
+  - first:
+      213: 4361959000715456597
+    second: GameOver-Sheet_11
+  - first:
+      213: 3348185119196785911
+    second: GameOver-Sheet_12
+  - first:
+      213: 8035482174091564214
+    second: GameOver-Sheet_13
+  - first:
+      213: -6786158357311908625
+    second: GameOver-Sheet_14
+  - first:
+      213: -3002018941715929285
+    second: GameOver-Sheet_15
+  - first:
+      213: -6282941267495348859
+    second: GameOver-Sheet_16
+  - first:
+      213: -5588962502502438283
+    second: GameOver-Sheet_17
+  - first:
+      213: -4833222260742972515
+    second: GameOver-Sheet_18
+  - first:
+      213: -3713510383905015321
+    second: GameOver-Sheet_19
+  - first:
+      213: -6241422106603521499
+    second: GameOver-Sheet_20
+  - first:
+      213: -1998915762499044227
+    second: GameOver-Sheet_21
+  - first:
+      213: -5388129079028491260
+    second: GameOver-Sheet_22
+  - first:
+      213: 8557596623093323276
+    second: GameOver-Sheet_23
+  - first:
+      213: 8205972611842414556
+    second: GameOver-Sheet_24
+  - first:
+      213: -3368809426706319364
+    second: GameOver-Sheet_25
+  - first:
+      213: -5118021297348100202
+    second: GameOver-Sheet_26
+  - first:
+      213: -6912124319360773076
+    second: GameOver-Sheet_27
+  - first:
+      213: 2028645668487472762
+    second: GameOver-Sheet_28
+  - first:
+      213: -2785371162627959179
+    second: GameOver-Sheet_29
+  - first:
+      213: -6777420276886519086
+    second: GameOver-Sheet_30
+  - first:
+      213: 2885107097290566454
+    second: GameOver-Sheet_31
+  - first:
+      213: 6016509149362420120
+    second: GameOver-Sheet_32
+  - first:
+      213: 6464446531675552673
+    second: GameOver-Sheet_33
+  - first:
+      213: 6688736996980544840
+    second: GameOver-Sheet_34
+  - first:
+      213: -5168008116095396255
+    second: GameOver-Sheet_35
+  - first:
+      213: 2134003140467070900
+    second: GameOver-Sheet_36
+  - first:
+      213: 9168359061089338700
+    second: GameOver-Sheet_37
+  - first:
+      213: 5995870209102490906
+    second: GameOver-Sheet_38
+  - first:
+      213: -3659848613876476651
+    second: GameOver-Sheet_39
+  - first:
+      213: -5693904897552419786
+    second: GameOver-Sheet_40
+  - first:
+      213: -3413311347739903443
+    second: GameOver-Sheet_41
+  - first:
+      213: -5383111578020285956
+    second: GameOver-Sheet_42
+  - first:
+      213: 8448197653510336855
+    second: GameOver-Sheet_43
+  - first:
+      213: -7934431728047901095
+    second: GameOver-Sheet_44
+  - first:
+      213: 8119216456197915608
+    second: GameOver-Sheet_45
+  - first:
+      213: -7505962062943399809
+    second: GameOver-Sheet_46
+  - first:
+      213: 6642643904509325001
+    second: GameOver-Sheet_47
+  - first:
+      213: -7694470505016307989
+    second: GameOver-Sheet_48
+  - first:
+      213: 7538327275890370928
+    second: GameOver-Sheet_49
+  - first:
+      213: -4339066917639938585
+    second: GameOver-Sheet_50
+  - first:
+      213: -703455451315859285
+    second: GameOver-Sheet_51
+  - first:
+      213: -6413602814439374993
+    second: GameOver-Sheet_52
+  - first:
+      213: -435273270124687728
+    second: GameOver-Sheet_53
+  - first:
+      213: -3563256365708651591
+    second: GameOver-Sheet_54
+  - first:
+      213: -3602453167726987308
+    second: GameOver-Sheet_55
+  - first:
+      213: 7872017128850891728
+    second: GameOver-Sheet_56
+  - first:
+      213: 7408772435310982938
+    second: GameOver-Sheet_57
+  - first:
+      213: 6316881883266604669
+    second: GameOver-Sheet_58
+  - first:
+      213: -7602630886745035983
+    second: GameOver-Sheet_59
+  - first:
+      213: -8881239778751367702
+    second: GameOver-Sheet_60
+  - first:
+      213: 2474843490196863815
+    second: GameOver-Sheet_61
+  - first:
+      213: 7411704505204121959
+    second: GameOver-Sheet_62
+  - first:
+      213: -2328602560101464857
+    second: GameOver-Sheet_63
+  - first:
+      213: 8230845341267448014
+    second: GameOver-Sheet_64
+  - first:
+      213: 6722928103088838720
+    second: GameOver-Sheet_65
+  - first:
+      213: -3657866966446110179
+    second: GameOver-Sheet_66
+  - first:
+      213: 1158419833507410643
+    second: GameOver-Sheet_67
+  - first:
+      213: -6647917601159513644
+    second: GameOver-Sheet_68
+  - first:
+      213: -300202726650216975
+    second: GameOver-Sheet_69
+  - first:
+      213: 1245681104577751122
+    second: GameOver-Sheet_70
+  - first:
+      213: 3538516483208630065
+    second: GameOver-Sheet_71
+  - first:
+      213: 2121173031943927613
+    second: GameOver-Sheet_72
+  - first:
+      213: 2102063813525326308
+    second: GameOver-Sheet_73
+  - first:
+      213: 3990430807593340607
+    second: GameOver-Sheet_74
+  - first:
+      213: -7717312025068905907
+    second: GameOver-Sheet_75
+  - first:
+      213: 66150020380408009
+    second: GameOver-Sheet_76
+  - first:
+      213: 3278587914532744927
+    second: GameOver-Sheet_77
+  - first:
+      213: -6873456375267822655
+    second: GameOver-Sheet_78
+  - first:
+      213: 4241713201216155870
+    second: GameOver-Sheet_79
+  - first:
+      213: -1605615694244639409
+    second: GameOver-Sheet_80
+  - first:
+      213: 8022669113293847868
+    second: GameOver-Sheet_81
+  - first:
+      213: -4082897328456612121
+    second: GameOver-Sheet_82
+  - first:
+      213: 3844847504786818883
+    second: GameOver-Sheet_83
+  - first:
+      213: -109221985435356288
+    second: GameOver-Sheet_84
+  - first:
+      213: -2403852485121352666
+    second: GameOver-Sheet_85
+  - first:
+      213: 8167316721832166634
+    second: GameOver-Sheet_86
+  - first:
+      213: -6951548484926049047
+    second: GameOver-Sheet_87
+  - first:
+      213: -4829341587104570403
+    second: GameOver-Sheet_88
+  - first:
+      213: 3257850933819865568
+    second: GameOver-Sheet_89
+  - first:
+      213: -5734051879952849076
+    second: GameOver-Sheet_90
+  - first:
+      213: -6775901905123073647
+    second: GameOver-Sheet_91
+  - first:
+      213: -2134031346529821675
+    second: GameOver-Sheet_92
+  - first:
+      213: -3147217831889301392
+    second: GameOver-Sheet_93
+  - first:
+      213: -1982169208841751255
+    second: GameOver-Sheet_94
+  - first:
+      213: 6283256099551888130
+    second: GameOver-Sheet_95
+  - first:
+      213: 8133452360557369720
+    second: GameOver-Sheet_96
+  - first:
+      213: -9201063876341178400
+    second: GameOver-Sheet_97
+  - first:
+      213: 126227024935415529
+    second: GameOver-Sheet_98
+  - first:
+      213: -5112128442946914404
+    second: GameOver-Sheet_99
+  - first:
+      213: -8951324389428172987
+    second: GameOver-Sheet_100
+  - first:
+      213: -2874034672250652024
+    second: GameOver-Sheet_101
+  - first:
+      213: 6433143743232425144
+    second: GameOver-Sheet_102
+  - first:
+      213: 6050845299298118098
+    second: GameOver-Sheet_103
+  - first:
+      213: 598529424617279028
+    second: GameOver-Sheet_104
+  - first:
+      213: -615596982088662629
+    second: GameOver-Sheet_105
+  - first:
+      213: -7753819124648843822
+    second: GameOver-Sheet_106
+  - first:
+      213: 7356092648491799570
+    second: GameOver-Sheet_107
+  - first:
+      213: -6852118773958015953
+    second: GameOver-Sheet_108
+  - first:
+      213: 5224885569785668522
+    second: GameOver-Sheet_109
+  - first:
+      213: -8811197145625566466
+    second: GameOver-Sheet_110
+  - first:
+      213: -5901047287105734061
+    second: GameOver-Sheet_111
+  - first:
+      213: 4213339304503818554
+    second: GameOver-Sheet_112
+  - first:
+      213: 7979343323626168917
+    second: GameOver-Sheet_113
+  - first:
+      213: 2035366511390062504
+    second: GameOver-Sheet_114
+  - first:
+      213: 5750358896386912305
+    second: GameOver-Sheet_115
+  - first:
+      213: 6160256898081726895
+    second: GameOver-Sheet_116
+  - first:
+      213: -1969713657821355852
+    second: GameOver-Sheet_117
+  - first:
+      213: 6540810660773491981
+    second: GameOver-Sheet_118
+  - first:
+      213: -7182480093047303580
+    second: GameOver-Sheet_119
+  - first:
+      213: -7614002268753947857
+    second: GameOver-Sheet_120
+  - first:
+      213: -1233215200051762383
+    second: GameOver-Sheet_121
+  - first:
+      213: 5995807721800732008
+    second: GameOver-Sheet_122
+  - first:
+      213: 4499528083648126777
+    second: GameOver-Sheet_123
+  - first:
+      213: -796121188571515320
+    second: GameOver-Sheet_124
+  - first:
+      213: 8659916855754581488
+    second: GameOver-Sheet_125
+  - first:
+      213: -2345291646279113115
+    second: GameOver-Sheet_126
+  - first:
+      213: -4096245558112331533
+    second: GameOver-Sheet_127
+  - first:
+      213: -5066353110244261601
+    second: GameOver-Sheet_128
+  - first:
+      213: 8765667097949348584
+    second: GameOver-Sheet_129
+  - first:
+      213: -148104999211782421
+    second: GameOver-Sheet_130
+  - first:
+      213: -6868710594246142595
+    second: GameOver-Sheet_131
+  - first:
+      213: -4071331655078325604
+    second: GameOver-Sheet_132
+  - first:
+      213: 4343680556560262321
+    second: GameOver-Sheet_133
+  - first:
+      213: 6014420747362118941
+    second: GameOver-Sheet_134
+  - first:
+      213: 6084710968002888648
+    second: GameOver-Sheet_135
+  - first:
+      213: -8160678241704027912
+    second: GameOver-Sheet_136
+  - first:
+      213: 4410724131019438515
+    second: GameOver-Sheet_137
+  - first:
+      213: 7564807335159584929
+    second: GameOver-Sheet_138
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GameOver-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 320
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58764a3d0bb2a3d0800000000000000
+      internalID: -3196787119992965028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 320
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e819829b2e93d5140800000000000000
+      internalID: 4709984431231242638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 320
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54110ec988de5ea20800000000000000
+      internalID: 3091137890262978885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 320
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0903f4943de1e80800000000000000
+      internalID: -8205889159207808781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 320
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f298d9f82953990800000000000000
+      internalID: -7406852866619920583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 320
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9328eb588367c9c00800000000000000
+      internalID: 908731209956098617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 320
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b95c7a2a05ec150800000000000000
+      internalID: 5894737621804227333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 0
+        width: 320
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07379e0a6840eb0c0800000000000000
+      internalID: -4558200796580580496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 320
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fdf022e571a4280800000000000000
+      internalID: -9058402007436501195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 0
+        width: 320
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9ddbff87cee5690800000000000000
+      internalID: -7611386315778696781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 320
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d46df80e658c6300800000000000000
+      internalID: 246718787242255576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 0
+        width: 320
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550767ab99ac88c30800000000000000
+      internalID: 4361959000715456597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 320
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc29ff50a4277e20800000000000000
+      internalID: 3348185119196785911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 0
+        width: 320
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b416b9a674c38f60800000000000000
+      internalID: 8035482174091564214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 0
+        width: 320
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe410eabde8b2d1a0800000000000000
+      internalID: -6786158357311908625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 0
+        width: 320
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37270a8dafa656d0800000000000000
+      internalID: -3002018941715929285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 0
+        width: 320
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5851c46a4328ec8a0800000000000000
+      internalID: -6282941267495348859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 5440
+        y: 0
+        width: 320
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a2d5f27340072b0800000000000000
+      internalID: -5588962502502438283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 0
+        width: 320
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b97eb16f1fcecb0800000000000000
+      internalID: -4833222260742972515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 0
+        width: 320
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9fd991bf5f67cc0800000000000000
+      internalID: -3713510383905015321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 0
+        width: 320
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a70aa99a30269a0800000000000000
+      internalID: -6241422106603521499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 0
+        width: 320
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7cb05864bc6244e0800000000000000
+      internalID: -1998915762499044227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 0
+        width: 320
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cdd8076258935b0800000000000000
+      internalID: -5388129079028491260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e6753d5a7e9c2724fa2b54c74345bc48
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GameOver-Sheet_0: -3196787119992965028
+      GameOver-Sheet_1: 4709984431231242638
+      GameOver-Sheet_10: 246718787242255576
+      GameOver-Sheet_11: 4361959000715456597
+      GameOver-Sheet_12: 3348185119196785911
+      GameOver-Sheet_13: 8035482174091564214
+      GameOver-Sheet_14: -6786158357311908625
+      GameOver-Sheet_15: -3002018941715929285
+      GameOver-Sheet_16: -6282941267495348859
+      GameOver-Sheet_17: -5588962502502438283
+      GameOver-Sheet_18: -4833222260742972515
+      GameOver-Sheet_19: -3713510383905015321
+      GameOver-Sheet_2: 3091137890262978885
+      GameOver-Sheet_20: -6241422106603521499
+      GameOver-Sheet_21: -1998915762499044227
+      GameOver-Sheet_22: -5388129079028491260
+      GameOver-Sheet_3: -8205889159207808781
+      GameOver-Sheet_4: -7406852866619920583
+      GameOver-Sheet_5: 908731209956098617
+      GameOver-Sheet_6: 5894737621804227333
+      GameOver-Sheet_7: -4558200796580580496
+      GameOver-Sheet_8: -9058402007436501195
+      GameOver-Sheet_9: -7611386315778696781
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
