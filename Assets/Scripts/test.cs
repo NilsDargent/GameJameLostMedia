@@ -40,7 +40,7 @@ public class test : MonoBehaviour
             _wantsToJump = true;
         }
 
-        _animator.SetFloat("velocityY", _rb.linearVelocityY);       
+              
 
         if (Physics2D.Raycast(transform.position, Vector2.down, PlayerHeight, GroundMask))
         {
