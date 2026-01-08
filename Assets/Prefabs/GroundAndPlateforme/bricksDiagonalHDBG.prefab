@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 3866782121803049907}
   - component: {fileID: 4296383539248152569}
   - component: {fileID: 3055343893599162009}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bricksDiagonalHDBG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -153,11 +153,11 @@ EdgeCollider2D:
   m_Offset: {x: 0, y: 0}
   m_EdgeRadius: 0
   m_Points:
-  - {x: -0.88697517, y: -0.11426926}
-  - {x: -0.6300323, y: -0.63556033}
-  - {x: 0.9423201, y: 0.10643262}
-  - {x: 0.7115214, y: 0.61016405}
-  - {x: -0.88362896, y: -0.11422825}
+  - {x: -1.119469, y: -0.18561447}
+  - {x: -0.85749173, y: -0.74929005}
+  - {x: 1.1792333, y: 0.190049}
+  - {x: 0.94146705, y: 0.7773969}
+  - {x: -1.1234814, y: -0.18341517}
   m_AdjacentStartPoint: {x: 0, y: 0}
   m_AdjacentEndPoint: {x: 0, y: 0}
   m_UseAdjacentStartPoint: 0
