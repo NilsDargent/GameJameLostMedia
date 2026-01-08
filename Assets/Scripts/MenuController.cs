@@ -1,10 +1,14 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.Audio;
 
 public class MenuController : MonoBehaviour
 {
     [SerializeField]
     private GameObject option;
+
+    [SerializeField]
+    private AudioMixer audioMixer;
 
     public void OnStart()
     {
@@ -15,14 +19,14 @@ public class MenuController : MonoBehaviour
     {
         SceneManager.LoadScene(SceneManager.GetSceneByName("Credit").name);
     }
-    public void Options()
-    {
-        option.SetActive(true);
-
-    }
 
     public void Quit()
     {
         Application.Quit();
+    }
+
+    public void SetVolume(float volume)
+    {
+        audioMixer.SetFloat("volume",volume);
     }
 }
