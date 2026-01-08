@@ -41,8 +41,23 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: BG Far
+    uniqueID: 2934341611
+    locked: 0
+  - name: BG Close
+    uniqueID: 2975548135
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Foreground Close
+    uniqueID: 826837795
+    locked: 0
+  - name: Foreground
+    uniqueID: 698311657
+    locked: 0
+  - name: VFX
+    uniqueID: 1914335729
     locked: 0
   m_RenderingLayers:
   - Default
