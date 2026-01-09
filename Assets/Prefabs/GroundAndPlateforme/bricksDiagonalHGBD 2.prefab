@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 5852809428650500061}
   - component: {fileID: 854986804189467557}
   - component: {fileID: 8369910698070779841}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bricksDiagonalHGBD 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29,7 +29,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 3.61, y: -0.52, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: -1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -156,7 +156,7 @@ EdgeCollider2D:
   - {x: -0.57966244, y: 0.3734643}
   - {x: -0.57098174, y: -0.37847102}
   - {x: 0.1841209, y: -0.36911243}
-  - {x: 0.9222281, y: 0.4026779}
+  - {x: 0.6420233, y: 0.41025066}
   - {x: -0.5519396, y: 0.4118045}
   m_AdjacentStartPoint: {x: 0, y: 0}
   m_AdjacentEndPoint: {x: 0, y: 0}

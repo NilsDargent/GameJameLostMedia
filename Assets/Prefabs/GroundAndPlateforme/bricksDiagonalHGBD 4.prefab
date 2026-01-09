@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 5852809428650500061}
   - component: {fileID: 854986804189467557}
   - component: {fileID: 8369910698070779841}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bricksDiagonalHGBD 4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
