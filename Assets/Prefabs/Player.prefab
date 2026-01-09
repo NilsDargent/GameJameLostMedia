@@ -175,8 +175,8 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0.11}
-  m_Size: {x: 1.5, y: 1}
+  m_Offset: {x: 8.0341067e-10, y: 0.006739498}
+  m_Size: {x: 1.5000002, y: 1.206524}
   m_Direction: 1
 --- !u!114 &131268865244056943
 MonoBehaviour:
@@ -193,6 +193,7 @@ MonoBehaviour:
   MoveSpeed: 10
   JumpForce: 10
   test: {x: 0, y: 0}
+  Yvelo: 0
   PlayerHeight: 0.9
   GroundMask:
     serializedVersion: 2
