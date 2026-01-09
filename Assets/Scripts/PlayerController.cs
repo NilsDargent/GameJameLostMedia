@@ -10,9 +10,9 @@ public class PlayerController : MonoBehaviour
     private float MoveSpeed = 5f;
     [SerializeField]
     private float JumpForce = 10f;
-    
 
-    public Vector2 test; 
+    [SerializeField]
+    private Vector2 spawn; 
     public float Yvelo;
 
 
@@ -24,6 +24,7 @@ public class PlayerController : MonoBehaviour
     private bool _wantsToJump;
     private bool _isDead = false;
 
+    
     private static Vector2 respawnPoint;
 
 
@@ -41,8 +42,9 @@ public class PlayerController : MonoBehaviour
 
     void Start()
     {
+
+        respawnPoint = spawn;
         transform.position = respawnPoint;
-        test = respawnPoint;
         _rb = GetComponent<Rigidbody2D>();
         _sprite = GetComponent<SpriteRenderer>();
         _animator = GetComponent<Animator>();        
@@ -124,12 +126,12 @@ public class PlayerController : MonoBehaviour
             {
                 print("Respawn touch�");
                 respawnPoint = transform.position;
-                test = respawnPoint;
             }
         }
         if (collision.gameObject.CompareTag("DeathZone")&& !_isDead)
         {
             _isDead = true;
+            _animator.SetBool("isDead", true);
             print("DeathZone touch�");
             StartCoroutine(DeathCoroutine());
         }
