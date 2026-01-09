@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 993d93ec7c48b5747830ae1c3a3e3d42
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7825935914588053564
+    second: LevelDesignPropsSheet1_0
+  - first:
+      213: -3044545958748423795
+    second: LevelDesignPropsSheet1_1
+  - first:
+      213: 3119720672247811595
+    second: LevelDesignPropsSheet1_2
+  - first:
+      213: 1384197170158957454
+    second: LevelDesignPropsSheet1_3
+  - first:
+      213: -1236949413075976453
+    second: LevelDesignPropsSheet1_4
+  - first:
+      213: -3480347569026100816
+    second: LevelDesignPropsSheet1_5
+  - first:
+      213: 8741658458008987143
+    second: LevelDesignPropsSheet1_6
+  - first:
+      213: -9039358234245416086
+    second: LevelDesignPropsSheet1_7
+  - first:
+      213: -8718764491006626539
+    second: LevelDesignPropsSheet1_8
+  - first:
+      213: 4064406637930313904
+    second: LevelDesignPropsSheet1_9
+  - first:
+      213: 3597129115600237227
+    second: LevelDesignPropsSheet1_10
+  - first:
+      213: -6601848933936570167
+    second: LevelDesignPropsSheet1_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LevelDesignPropsSheet1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 23
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfd100dfb0b46390800000000000000
+      internalID: -7825935914588053564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelDesignPropsSheet1_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 168
+        width: 115
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89f27ac4999fb5d0800000000000000
+      internalID: -3044545958748423795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelDesignPropsSheet1_2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 155
+        width: 116
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e06c32c697b4b20800000000000000
+      internalID: 3119720672247811595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelDesignPropsSheet1_3
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 153
+        width: 60
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83fc621ef7a53310800000000000000
+      internalID: 1384197170158957454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelDesignPropsSheet1_4
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 142
+        width: 60
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe7a7cff0975dee0800000000000000
+      internalID: -1236949413075976453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelDesignPropsSheet1_5
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 129
+        width: 57
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b11e4d535253bfc0800000000000000
+      internalID: -3480347569026100816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelDesignPropsSheet1_6
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 138
+        width: 77
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7062a616d0c905970800000000000000
+      internalID: 8741658458008987143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelDesignPropsSheet1_7
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 82
+        width: 112
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6bbc4a149fbd8280800000000000000
+      internalID: -9039358234245416086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelDesignPropsSheet1_8
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 90
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515b241b3e9b00780800000000000000
+      internalID: -8718764491006626539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelDesignPropsSheet1_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 320
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b873949d4ca76830800000000000000
+      internalID: 4064406637930313904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelDesignPropsSheet1_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 21
+        width: 320
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2319a4fd19be130800000000000000
+      internalID: 3597129115600237227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelDesignPropsSheet1_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 320
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c06be76f558164a0800000000000000
+      internalID: -6601848933936570167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a2697ac05ef0de34b908d6aa472e02da
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LevelDesignPropsSheet1_0: -7825935914588053564
+      LevelDesignPropsSheet1_1: -3044545958748423795
+      LevelDesignPropsSheet1_10: 3597129115600237227
+      LevelDesignPropsSheet1_11: -6601848933936570167
+      LevelDesignPropsSheet1_2: 3119720672247811595
+      LevelDesignPropsSheet1_3: 1384197170158957454
+      LevelDesignPropsSheet1_4: -1236949413075976453
+      LevelDesignPropsSheet1_5: -3480347569026100816
+      LevelDesignPropsSheet1_6: 8741658458008987143
+      LevelDesignPropsSheet1_7: -9039358234245416086
+      LevelDesignPropsSheet1_8: -8718764491006626539
+      LevelDesignPropsSheet1_9: 4064406637930313904
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

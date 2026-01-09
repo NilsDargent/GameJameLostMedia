@@ -13,6 +13,7 @@ public class PlayerController : MonoBehaviour
     
 
     public Vector2 test; 
+    public float Yvelo;
 
 
     private SpriteRenderer _sprite;
@@ -50,6 +51,7 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        Yvelo = _rb.linearVelocityY;
         bool onGround = Physics2D.Raycast(transform.position, Vector2.down, PlayerHeight, GroundMask);
         _moveInput = Input.GetAxis("Horizontal");
         _animator.SetFloat("velocityY", _rb.linearVelocityY);
@@ -94,6 +96,10 @@ public class PlayerController : MonoBehaviour
 
             _rb.AddForceY(JumpForce, ForceMode2D.Impulse);
         }
+        if(_rb.linearVelocityY > 10f)
+        {
+            _rb.linearVelocityY = 10f;
+        }
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
@@ -116,7 +122,7 @@ public class PlayerController : MonoBehaviour
         {
             if (!collision.gameObject.GetComponent<RespawnPoint>().isActif)
             {
-                print("Respawn touché");
+                print("Respawn touchï¿½");
                 respawnPoint = transform.position;
                 test = respawnPoint;
             }
@@ -124,7 +130,7 @@ public class PlayerController : MonoBehaviour
         if (collision.gameObject.CompareTag("DeathZone")&& !_isDead)
         {
             _isDead = true;
-            print("DeathZone touché");
+            print("DeathZone touchï¿½");
             StartCoroutine(DeathCoroutine());
         }
     }

@@ -1,19 +1,10 @@
 fileFormatVersion: 2
-guid: 3be1c002f73e7d7468be9a48a9324b48
+guid: 9ce0d4fe93bb46147b2347e7336df4f1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1166895638490920745
-    second: Mouse_Sheet_Grey_0
-  - first:
-      213: 1881156105006012437
-    second: Mouse_Sheet_Grey_1
-  - first:
-      213: -7840582648499940786
-    second: Mouse_Sheet_Grey_2
-  - first:
-      213: 2348181699065181989
-    second: Mouse_Sheet_Grey_3
+      213: -9077719448623775839
+    second: ground3_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -55,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -84,7 +75,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -105,96 +96,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Mouse_Sheet_Grey_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 48
-        width: 32
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7d8cbc9699a5ecfe0800000000000000
-      internalID: -1166895638490920745
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mouse_Sheet_Grey_1
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 31
-        width: 32
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 518d0fdb2853b1a10800000000000000
-      internalID: 1881156105006012437
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mouse_Sheet_Grey_2
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 15
-        width: 32
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e42d1145f97a03390800000000000000
-      internalID: -7840582648499940786
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mouse_Sheet_Grey_3
+      name: ground3_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 32
-        height: 13
+        width: 320
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -203,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5277ad860da669020800000000000000
-      internalID: 2348181699065181989
+      spriteID: 1afff1ed146750280800000000000000
+      internalID: -9077719448623775839
       vertices: []
       indices: 
       edges: []
@@ -213,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -223,10 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Mouse_Sheet_Grey_0: -1166895638490920745
-      Mouse_Sheet_Grey_1: 1881156105006012437
-      Mouse_Sheet_Grey_2: -7840582648499940786
-      Mouse_Sheet_Grey_3: 2348181699065181989
+      ground3_0: -9077719448623775839
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
