@@ -1,0 +1,2150 @@
+fileFormatVersion: 2
+guid: 5f9b6584051ec6f49b802fff5c24368a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1475352731506138865
+    second: spritesheetBricksAndPlanks_0
+  - first:
+      213: 5912044866237300163
+    second: spritesheetBricksAndPlanks_1
+  - first:
+      213: -8089413985118599596
+    second: spritesheetBricksAndPlanks_2
+  - first:
+      213: -188932770402605926
+    second: spritesheetBricksAndPlanks_3
+  - first:
+      213: -5176592771575164833
+    second: spritesheetBricksAndPlanks_4
+  - first:
+      213: -2801183711758393840
+    second: spritesheetBricksAndPlanks_5
+  - first:
+      213: 1070238209144585115
+    second: spritesheetBricksAndPlanks_6
+  - first:
+      213: 6247468167905988939
+    second: spritesheetBricksAndPlanks_7
+  - first:
+      213: 2789300939324046161
+    second: spritesheetBricksAndPlanks_8
+  - first:
+      213: 7820624330355853108
+    second: spritesheetBricksAndPlanks_9
+  - first:
+      213: 9015780989235818328
+    second: spritesheetBricksAndPlanks_10
+  - first:
+      213: -1264837183825172643
+    second: spritesheetBricksAndPlanks_11
+  - first:
+      213: 8099342604912182090
+    second: spritesheetBricksAndPlanks_12
+  - first:
+      213: -8257996425516206153
+    second: spritesheetBricksAndPlanks_13
+  - first:
+      213: -2062652518325802342
+    second: spritesheetBricksAndPlanks_14
+  - first:
+      213: 1223036469824530533
+    second: spritesheetBricksAndPlanks_15
+  - first:
+      213: -6919142688309003365
+    second: spritesheetBricksAndPlanks_16
+  - first:
+      213: 5059106826450705897
+    second: spritesheetBricksAndPlanks_17
+  - first:
+      213: -923208742550004348
+    second: spritesheetBricksAndPlanks_18
+  - first:
+      213: 699824094800847820
+    second: spritesheetBricksAndPlanks_19
+  - first:
+      213: -3444518084780930807
+    second: spritesheetBricksAndPlanks_20
+  - first:
+      213: -178234251615570632
+    second: spritesheetBricksAndPlanks_21
+  - first:
+      213: 5634063329290749331
+    second: spritesheetBricksAndPlanks_22
+  - first:
+      213: 5876519996795650643
+    second: spritesheetBricksAndPlanks_23
+  - first:
+      213: -3803754637087449013
+    second: spritesheetBricksAndPlanks_24
+  - first:
+      213: -8909231208524851391
+    second: spritesheetBricksAndPlanks_25
+  - first:
+      213: -1469010669546333568
+    second: spritesheetBricksAndPlanks_26
+  - first:
+      213: 5495299619076207015
+    second: spritesheetBricksAndPlanks_27
+  - first:
+      213: 7924856562844607634
+    second: spritesheetBricksAndPlanks_28
+  - first:
+      213: -6681644390359531971
+    second: spritesheetBricksAndPlanks_29
+  - first:
+      213: 8774539874594995634
+    second: spritesheetBricksAndPlanks_30
+  - first:
+      213: 1754994351003873715
+    second: spritesheetBricksAndPlanks_31
+  - first:
+      213: -7027741787103040529
+    second: spritesheetBricksAndPlanks_32
+  - first:
+      213: -828847268804276309
+    second: spritesheetBricksAndPlanks_33
+  - first:
+      213: -1656417752104567686
+    second: spritesheetBricksAndPlanks_34
+  - first:
+      213: -7723921970765788681
+    second: spritesheetBricksAndPlanks_35
+  - first:
+      213: -3204614364308362207
+    second: spritesheetBricksAndPlanks_36
+  - first:
+      213: 1374838439541458028
+    second: spritesheetBricksAndPlanks_37
+  - first:
+      213: -5696119288216417168
+    second: spritesheetBricksAndPlanks_38
+  - first:
+      213: -3499789416115964064
+    second: spritesheetBricksAndPlanks_39
+  - first:
+      213: -370712897257785905
+    second: spritesheetBricksAndPlanks_40
+  - first:
+      213: -797748047879553501
+    second: spritesheetBricksAndPlanks_41
+  - first:
+      213: -4751999839295859586
+    second: spritesheetBricksAndPlanks_42
+  - first:
+      213: -5939128618123408728
+    second: spritesheetBricksAndPlanks_43
+  - first:
+      213: 8275998576395620568
+    second: spritesheetBricksAndPlanks_44
+  - first:
+      213: -4233853284480468287
+    second: spritesheetBricksAndPlanks_45
+  - first:
+      213: -669070024969154158
+    second: spritesheetBricksAndPlanks_46
+  - first:
+      213: 8867330392375757768
+    second: spritesheetBricksAndPlanks_47
+  - first:
+      213: 5829371059251532903
+    second: spritesheetBricksAndPlanks_48
+  - first:
+      213: 3077501325692585934
+    second: spritesheetBricksAndPlanks_49
+  - first:
+      213: 81807096082455201
+    second: spritesheetBricksAndPlanks_50
+  - first:
+      213: 3091408030113325854
+    second: spritesheetBricksAndPlanks_51
+  - first:
+      213: 7078491788406102356
+    second: spritesheetBricksAndPlanks_52
+  - first:
+      213: 3587148406732456529
+    second: spritesheetBricksAndPlanks_53
+  - first:
+      213: -8366074932704113973
+    second: spritesheetBricksAndPlanks_54
+  - first:
+      213: -1575621437671546788
+    second: spritesheetBricksAndPlanks_55
+  - first:
+      213: 7794525291192129489
+    second: spritesheetBricksAndPlanks_56
+  - first:
+      213: 2155071278265902756
+    second: spritesheetBricksAndPlanks_57
+  - first:
+      213: 213722192027117484
+    second: spritesheetBricksAndPlanks_58
+  - first:
+      213: -31741991095389613
+    second: spritesheetBricksAndPlanks_59
+  - first:
+      213: 7789702767047828626
+    second: spritesheetBricksAndPlanks_60
+  - first:
+      213: 8693280248832815109
+    second: spritesheetBricksAndPlanks_61
+  - first:
+      213: -5108370082364518771
+    second: spritesheetBricksAndPlanks_62
+  - first:
+      213: 8411615661756640006
+    second: spritesheetBricksAndPlanks_63
+  - first:
+      213: -5484399331348178815
+    second: spritesheetBricksAndPlanks_64
+  - first:
+      213: -8137826918778377440
+    second: spritesheetBricksAndPlanks_65
+  - first:
+      213: 4855333759524745693
+    second: spritesheetBricksAndPlanks_66
+  - first:
+      213: 5839422672842749840
+    second: spritesheetBricksAndPlanks_67
+  - first:
+      213: 8248091514885983830
+    second: spritesheetBricksAndPlanks_68
+  - first:
+      213: -8284965428135934842
+    second: spritesheetBricksAndPlanks_69
+  - first:
+      213: 4925525990760880799
+    second: spritesheetBricksAndPlanks_70
+  - first:
+      213: -4082116851943521075
+    second: spritesheetBricksAndPlanks_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 163
+        width: 44
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe53d71e71897410800000000000000
+      internalID: 1475352731506138865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 148
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdfe348b7dcb0250800000000000000
+      internalID: 5912044866237300163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 148
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456cdef07d0acbf80800000000000000
+      internalID: -8089413985118599596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_3
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 169
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94e8b575a6c06df0800000000000000
+      internalID: -188932770402605926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_4
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 99
+        width: 17
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50586f0d4c0928b0800000000000000
+      internalID: -5176592771575164833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_5
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 99
+        width: 17
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ed70661423029d0800000000000000
+      internalID: -2801183711758393840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_6
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 63
+        width: 24
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9bfc191bff3ade00800000000000000
+      internalID: 1070238209144585115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 63
+        width: 24
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41d89db23773b650800000000000000
+      internalID: 6247468167905988939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_8
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 29
+        width: 30
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bb21c0d6695b620800000000000000
+      internalID: 2789300939324046161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_9
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 29
+        width: 30
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43743ac9460788c60800000000000000
+      internalID: 7820624330355853108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 146
+        width: 44
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fee14ca0d7e1d70800000000000000
+      internalID: 9015780989235818328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_11
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 159
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57256f5845627ee0800000000000000
+      internalID: -1264837183825172643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_12
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 148
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a434affdf25a66070800000000000000
+      internalID: 8099342604912182090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 129
+        width: 44
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b739a4f004b56d80800000000000000
+      internalID: -8257996425516206153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 117
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a2026867cff53e0800000000000000
+      internalID: -2062652518325802342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_15
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 117
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5682d3b703919f010800000000000000
+      internalID: 1223036469824530533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_16
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 137
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9bb91952644aff90800000000000000
+      internalID: -6919142688309003365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_17
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 142
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed1957bade853640800000000000000
+      internalID: 5059106826450705897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_18
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 137
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d95ce3a8a1033f0800000000000000
+      internalID: -923208742550004348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 113
+        width: 44
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc32ddf6e4646b900800000000000000
+      internalID: 699824094800847820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_20
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 127
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909493e3d0d9230d0800000000000000
+      internalID: -3444518084780930807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_21
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 127
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83575a974e8c68df0800000000000000
+      internalID: -178234251615570632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 97
+        width: 44
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3950e685fb6303e40800000000000000
+      internalID: 5634063329290749331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 84
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3520c7c4dc79d8150800000000000000
+      internalID: 5876519996795650643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_24
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 83
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4068ab8f49563bc0800000000000000
+      internalID: -3803754637087449013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_25
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 99
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1475d024b6d0c5480800000000000000
+      internalID: -8909231208524851391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_26
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 99
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a9e6644960d9be0800000000000000
+      internalID: -1469010669546333568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 81
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1706163e9334c40800000000000000
+      internalID: 5495299619076207015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_28
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 81
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294a6446e0fbafd60800000000000000
+      internalID: 7924856562844607634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 54
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e732de3d70643a0800000000000000
+      internalID: -6681644390359531971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_30
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 54
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd3cb4c68d65c970800000000000000
+      internalID: 8774539874594995634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_31
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 82
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1376a501efa5810800000000000000
+      internalID: 1754994351003873715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_32
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 66
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: febed864412787e90800000000000000
+      internalID: -7027741787103040529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_33
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 64
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf4ed9ecc75f74f0800000000000000
+      internalID: -828847268804276309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_34
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 64
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cf72e94d83309e0800000000000000
+      internalID: -1656417752104567686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_35
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 69
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f98ba304ed1fc490800000000000000
+      internalID: -7723921970765788681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_36
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 64
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c2945e63ce683d0800000000000000
+      internalID: -3204614364308362207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_37
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 49
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64cb6cc648641310800000000000000
+      internalID: 1374838439541458028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_38
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 17
+        width: 14
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c0c9bcfa153f0b0800000000000000
+      internalID: -5696119288216417168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_39
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 17
+        width: 14
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0677cb791104e6fc0800000000000000
+      internalID: -3499789416115964064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_40
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 27
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc53b458596fadaf0800000000000000
+      internalID: -370712897257785905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_41
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 27
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32eb0e98064dde4f0800000000000000
+      internalID: -797748047879553501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_42
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 33
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e749e06c2518d0eb0800000000000000
+      internalID: -4751999839295859586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_43
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 26
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aac5691df9f39da0800000000000000
+      internalID: -5939128618123408728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_44
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 16
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d013bb6bd04ad270800000000000000
+      internalID: 8275998576395620568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_45
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 16
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cabb63aed45e35c0800000000000000
+      internalID: -4233853284480468287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_46
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 17
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2911adf6b5cf6b6f0800000000000000
+      internalID: -669070024969154158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_47
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 16
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb059fb2061f0b70800000000000000
+      internalID: 8867330392375757768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_48
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 19
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76451a2d71616e050800000000000000
+      internalID: 5829371059251532903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_49
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 21
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec743b1862b75ba20800000000000000
+      internalID: 3077501325692585934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_50
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 21
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aad916de13a22100800000000000000
+      internalID: 81807096082455201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_51
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 19
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13e1b27933e6ea20800000000000000
+      internalID: 3091408030113325854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_52
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 19
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459177137cadb3260800000000000000
+      internalID: 7078491788406102356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_53
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 19
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15285eb687c18c130800000000000000
+      internalID: 3587148406732456529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_54
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 19
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca0fdf8c2bb5eb80800000000000000
+      internalID: -8366074932704113973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_55
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50e81386a4422ae0800000000000000
+      internalID: -1575621437671546788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_56
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 4
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d71e468477bb2c60800000000000000
+      internalID: 7794525291192129489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_57
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 4
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6afa6d8e958ed10800000000000000
+      internalID: 2155071278265902756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_58
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 4
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7e468833b47f200800000000000000
+      internalID: 213722192027117484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_59
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 4
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352bb48c3da3f8ff0800000000000000
+      internalID: -31741991095389613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_60
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 4
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29463cf15659a1c60800000000000000
+      internalID: 7789702767047828626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_61
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 8
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500799cc35cb4a870800000000000000
+      internalID: 8693280248832815109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_62
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 5
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e0e63b97c6b19b0800000000000000
+      internalID: -5108370082364518771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_63
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 5
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bed12b0ef0cb470800000000000000
+      internalID: 8411615661756640006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_64
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 5
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1881a90addf73e3b0800000000000000
+      internalID: -5484399331348178815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_65
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 12
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b6a9e8881a01f80800000000000000
+      internalID: -8137826918778377440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_66
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 5
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd13f62645c916340800000000000000
+      internalID: 4855333759524745693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_67
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 5
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097772c7bfbc90150800000000000000
+      internalID: 5839422672842749840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_68
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 5
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e41b3588b177270800000000000000
+      internalID: 8248091514885983830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_69
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 5
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684c097b6d3e50d80800000000000000
+      internalID: -8284965428135934842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_70
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 4
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a9143cacbfa5440800000000000000
+      internalID: 4925525990760880799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_71
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 5
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc44544e9586957c0800000000000000
+      internalID: -4082116851943521075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_72
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 91
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d80bd4399390864485f5af0b64bbf24
+      internalID: -1867581413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_73
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 91
+        width: 4
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e860448b031ead47be674d5125b0b92
+      internalID: -657772299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_74
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 74
+        width: 5
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8afa0c92d413b4382bbcef2e2616ca
+      internalID: 709417854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_75
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 16
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a31a33cade2704381a6dcd5bc2e217
+      internalID: -871950440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_76
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 16
+        width: 4
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a126a0a6b759eb540b173d95a0aa9f9e
+      internalID: -1652796821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_77
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 26
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2b245cc0f0c7248b848c012b42873d
+      internalID: 515581887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetBricksAndPlanks_78
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 26
+        width: 4
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2c7b7eb11c45e4eb29da6edb020474
+      internalID: -1121409656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ae3213240ed74034c8ff20c8b282e60b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spritesheetBricksAndPlanks_0: 1475352731506138865
+      spritesheetBricksAndPlanks_1: 5912044866237300163
+      spritesheetBricksAndPlanks_10: 9015780989235818328
+      spritesheetBricksAndPlanks_11: -1264837183825172643
+      spritesheetBricksAndPlanks_12: 8099342604912182090
+      spritesheetBricksAndPlanks_13: -8257996425516206153
+      spritesheetBricksAndPlanks_14: -2062652518325802342
+      spritesheetBricksAndPlanks_15: 1223036469824530533
+      spritesheetBricksAndPlanks_16: -6919142688309003365
+      spritesheetBricksAndPlanks_17: 5059106826450705897
+      spritesheetBricksAndPlanks_18: -923208742550004348
+      spritesheetBricksAndPlanks_19: 699824094800847820
+      spritesheetBricksAndPlanks_2: -8089413985118599596
+      spritesheetBricksAndPlanks_20: -3444518084780930807
+      spritesheetBricksAndPlanks_21: -178234251615570632
+      spritesheetBricksAndPlanks_22: 5634063329290749331
+      spritesheetBricksAndPlanks_23: 5876519996795650643
+      spritesheetBricksAndPlanks_24: -3803754637087449013
+      spritesheetBricksAndPlanks_25: -8909231208524851391
+      spritesheetBricksAndPlanks_26: -1469010669546333568
+      spritesheetBricksAndPlanks_27: 5495299619076207015
+      spritesheetBricksAndPlanks_28: 7924856562844607634
+      spritesheetBricksAndPlanks_29: -6681644390359531971
+      spritesheetBricksAndPlanks_3: -188932770402605926
+      spritesheetBricksAndPlanks_30: 8774539874594995634
+      spritesheetBricksAndPlanks_31: 1754994351003873715
+      spritesheetBricksAndPlanks_32: -7027741787103040529
+      spritesheetBricksAndPlanks_33: -828847268804276309
+      spritesheetBricksAndPlanks_34: -1656417752104567686
+      spritesheetBricksAndPlanks_35: -7723921970765788681
+      spritesheetBricksAndPlanks_36: -3204614364308362207
+      spritesheetBricksAndPlanks_37: 1374838439541458028
+      spritesheetBricksAndPlanks_38: -5696119288216417168
+      spritesheetBricksAndPlanks_39: -3499789416115964064
+      spritesheetBricksAndPlanks_4: -5176592771575164833
+      spritesheetBricksAndPlanks_40: -370712897257785905
+      spritesheetBricksAndPlanks_41: -797748047879553501
+      spritesheetBricksAndPlanks_42: -4751999839295859586
+      spritesheetBricksAndPlanks_43: -5939128618123408728
+      spritesheetBricksAndPlanks_44: 8275998576395620568
+      spritesheetBricksAndPlanks_45: -4233853284480468287
+      spritesheetBricksAndPlanks_46: -669070024969154158
+      spritesheetBricksAndPlanks_47: 8867330392375757768
+      spritesheetBricksAndPlanks_48: 5829371059251532903
+      spritesheetBricksAndPlanks_49: 3077501325692585934
+      spritesheetBricksAndPlanks_5: -2801183711758393840
+      spritesheetBricksAndPlanks_50: 81807096082455201
+      spritesheetBricksAndPlanks_51: 3091408030113325854
+      spritesheetBricksAndPlanks_52: 7078491788406102356
+      spritesheetBricksAndPlanks_53: 3587148406732456529
+      spritesheetBricksAndPlanks_54: -8366074932704113973
+      spritesheetBricksAndPlanks_55: -1575621437671546788
+      spritesheetBricksAndPlanks_56: 7794525291192129489
+      spritesheetBricksAndPlanks_57: 2155071278265902756
+      spritesheetBricksAndPlanks_58: 213722192027117484
+      spritesheetBricksAndPlanks_59: -31741991095389613
+      spritesheetBricksAndPlanks_6: 1070238209144585115
+      spritesheetBricksAndPlanks_60: 7789702767047828626
+      spritesheetBricksAndPlanks_61: 8693280248832815109
+      spritesheetBricksAndPlanks_62: -5108370082364518771
+      spritesheetBricksAndPlanks_63: 8411615661756640006
+      spritesheetBricksAndPlanks_64: -5484399331348178815
+      spritesheetBricksAndPlanks_65: -8137826918778377440
+      spritesheetBricksAndPlanks_66: 4855333759524745693
+      spritesheetBricksAndPlanks_67: 5839422672842749840
+      spritesheetBricksAndPlanks_68: 8248091514885983830
+      spritesheetBricksAndPlanks_69: -8284965428135934842
+      spritesheetBricksAndPlanks_7: 6247468167905988939
+      spritesheetBricksAndPlanks_70: 4925525990760880799
+      spritesheetBricksAndPlanks_71: -4082116851943521075
+      spritesheetBricksAndPlanks_72: -1867581413
+      spritesheetBricksAndPlanks_73: -657772299
+      spritesheetBricksAndPlanks_74: 709417854
+      spritesheetBricksAndPlanks_75: -871950440
+      spritesheetBricksAndPlanks_76: -1652796821
+      spritesheetBricksAndPlanks_77: 515581887
+      spritesheetBricksAndPlanks_78: -1121409656
+      spritesheetBricksAndPlanks_8: 2789300939324046161
+      spritesheetBricksAndPlanks_9: 7820624330355853108
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
