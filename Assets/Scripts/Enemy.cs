@@ -21,7 +21,7 @@ public class Enemy : MonoBehaviour
         Vector3 dir = target.position - transform.position;
         transform.Translate(dir.normalized * speed * Time.deltaTime, Space.World);
 
-        //si lenemi est quasi arrivé à sa destination
+        //si lenemi est quasi arrivï¿½ ï¿½ sa destination
         if (Vector3.Distance(transform.position, target.position) < 0.3f)
         {
             destPoint = (destPoint + 1) % waypoints.Length;
@@ -35,7 +35,7 @@ public class Enemy : MonoBehaviour
         {
             if (collision.contacts[0].point.y > transform.position.y && collision.collider.GetType() == typeof(BoxCollider2D))
             {
-                print("Enemy krabouillé");
+                print("Enemy krabouillï¿½");
                 Destroy(gameObject);
             }
         }
