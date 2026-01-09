@@ -27,6 +27,7 @@ public class Enemy : MonoBehaviour
             destPoint = (destPoint + 1) % waypoints.Length;
             target = waypoints[destPoint];
             graphics.flipX = !graphics.flipX;
+            
         }
     }
     private void OnCollisionEnter2D(Collision2D collision)

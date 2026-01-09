@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 854986804189467557}
   - component: {fileID: 8369910698070779841}
   m_Layer: 0
-  m_Name: bricksDiagonalHGBD 2
+  m_Name: bricksDiagonalHGBD 4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -78,7 +78,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 8650155040235003693, guid: 24e922c58fbac2446904db33d28b8676, type: 3}
+  m_Sprite: {fileID: -8883839866297422822, guid: 24e922c58fbac2446904db33d28b8676, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -153,11 +153,9 @@ EdgeCollider2D:
   m_Offset: {x: 0, y: 0}
   m_EdgeRadius: 0
   m_Points:
-  - {x: -0.57966244, y: 0.3734643}
-  - {x: -0.57098174, y: -0.37847102}
-  - {x: 0.1841209, y: -0.36911243}
-  - {x: 0.9222281, y: 0.4026779}
-  - {x: -0.5519396, y: 0.4118045}
+  - {x: 0.63313854, y: -0.2236889}
+  - {x: 0.61842656, y: 0.42111284}
+  - {x: -0.7596142, y: -0.23225957}
   m_AdjacentStartPoint: {x: 0, y: 0}
   m_AdjacentEndPoint: {x: 0, y: 0}
   m_UseAdjacentStartPoint: 0
