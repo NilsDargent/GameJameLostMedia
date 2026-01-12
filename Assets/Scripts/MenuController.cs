@@ -17,7 +17,7 @@ public class MenuController : MonoBehaviour
 
     public void Credit()
     {
-        SceneManager.LoadScene(SceneManager.GetSceneByName("Credit").name);
+        SceneManager.LoadScene(2);
     }
 
     public void Quit()
